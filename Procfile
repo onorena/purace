@@ -1,1 +1,1 @@
-web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --enable_nbextensions=True purace.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=gridstack --enable_nbextensions=True purace.ipynb
